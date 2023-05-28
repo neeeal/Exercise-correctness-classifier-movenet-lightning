@@ -47,7 +47,7 @@ for m,c in enumerate(class_names[:]):
         pass
     else:
         os.mkdir(c_save_path)
-    print(c_path)
+#    print(c_path)
 
     for n,img in enumerate(os.listdir(c_path)):
         if  n%500 ==0:
