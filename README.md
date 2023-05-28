@@ -12,3 +12,6 @@ The exercises included are the following:
   - Plank
   - Squat
   - Legraise
+
+Movenet Lightning: https://tfhub.dev/google/movenet/singlepose/lightning/4
+Movenet Lightning Demo Colab: https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/movenet.ipynb#scrollTo=SYFdK-JHYhrv
