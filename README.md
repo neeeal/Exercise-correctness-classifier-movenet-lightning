@@ -27,3 +27,9 @@ Movenet Lightning Demo Colab: https://colab.research.google.com/github/tensorflo
 5. trial_keypointsget.py
 6. training_nn_classifiers.py
 7. camera_testing.py
+
+## Folders
+- datasets_sample: contains 5 sample images per class per exercise from the dataset of images used to generate keypoints
+- keypoints: contains 5 .csv files of generated keypoints from the full dataset
+- lightning: the movenet lightning pre-trained pose estimation model
+- models_v14: version 14 of the classifier models trained using the data from keypoints folder 
