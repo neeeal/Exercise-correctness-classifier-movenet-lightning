@@ -1,6 +1,6 @@
 # Exercise-correctness-classifier-movenet-lightning
 
-##A EXERCISE CORRECTNESS CLASSIFIER USING MOVENET LIGHTNING POSE ESTIMATION AND DEEP NEURAL NETWORKS
+## A EXERCISE CORRECTNESS CLASSIFIER USING MOVENET LIGHTNING POSE ESTIMATION AND DEEP NEURAL NETWORKS
 
 Movenet Lightning is used to generate keypoints that will then be fed to a custom deep neural network model.
 
