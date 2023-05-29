@@ -20,10 +20,10 @@ Movenet Lightning Demo Colab: https://colab.research.google.com/github/tensorflo
 
 
 ## Suggested order of execution of .py files
-- image_extractor.py
-- blurred_filter.py
-- duplicate_filter.py
-- create_final_dataset.py
-- trial_keypointsget.py
-- training_nn_classifiers.py
-- camera_testing.py
+1. image_extractor.py
+2. blurred_filter.py
+3. duplicate_filter.py
+4. create_final_dataset.py
+5. trial_keypointsget.py
+6. training_nn_classifiers.py
+7. camera_testing.py
